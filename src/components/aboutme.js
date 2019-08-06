@@ -19,7 +19,7 @@ class About extends Component {
 
           <div className="banner-text">
             <h1>About Me</h1>
-            <p style={{color: 'rgba(0, 0, 0, 0.8)', fontWeight:'bold', textDecoration:'none'}} >An aspiring web developer with a passion for solving problems, team colaboration and using the knowledge i have gain to help others. My past experience at Verizon has helped me to become a significantly better team player, improved my critical thinking skills. It also reignited my passion for software development. As such, pursing this career path is my passion.</p>
+            <p style={{color: 'rgba(0, 0, 0, 0.8)', textDecoration:'none'}} >An aspiring web developer with a passion for solving problems, team colaboration and using the knowledge i have gain to help others. My past experience at Verizon has helped me to become a significantly better team player, improved my critical thinking skills. It also reignited my passion for software development. As such, pursing this career path is my passion.</p>
 
           <hr/>
           </div>

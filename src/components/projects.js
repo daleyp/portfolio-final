@@ -16,8 +16,8 @@ class Projects extends Component {
               Created an app that generates a linear gradient from two colors pickers, then displays the style on the documents using Dom malipulation.
             </CardText>
             <CardActions border>
-              <Button colored><a style={{textDecoration: 'none', color: 'blue'}}href="https://github.com/daleyp/background-generator">GitHub</a></Button>
-              <Button colored><a style={{textDecoration: 'none', color: 'blue'}} href="https://daleyp.github.io/background-generator/">Live Demo</a></Button>
+              <Button colored><a target='_blank' rel="noopener noreferrer" style={{textDecoration: 'none', color: 'blue'}}href="https://github.com/daleyp/background-generator">GitHub</a></Button>
+              <Button colored><a target='_blank' rel="noopener noreferrer" style={{textDecoration: 'none', color: 'blue'}} href="https://daleyp.github.io/background-generator/">Live Demo</a></Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -31,9 +31,9 @@ class Projects extends Component {
               First react app that searches through Robot friends, their contact information. The app is responsive, fast and updates live.
             </CardText>
             <CardActions border>
-            <Button colored><a style={{textDecoration: 'none', color: 'blue'}}href="https://github.com/daleyp/deploy">GitHub</a></Button>
+            <Button colored><a target='_blank' rel="noopener noreferrer" style={{textDecoration: 'none', color: 'blue'}}href="https://github.com/daleyp/deploy">GitHub</a></Button>
             
-            <Button colored><a style={{textDecoration: 'none', color: 'blue'}} href="https://daleyp.github.io/deploy">Live Demo</a></Button>
+            <Button colored><a target='_blank' rel="noopener noreferrer" style={{textDecoration: 'none', color: 'blue'}} href="https://daleyp.github.io/deploy">Live Demo</a></Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -47,9 +47,9 @@ class Projects extends Component {
               An app that uses React for the Front-end, an image recognition api, it has its own server using node and express and a database.
             </CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
+            <Button colored><a target='_blank' rel="noopener noreferrer" style={{textDecoration: 'none', color: 'blue'}}href="https://github.com/daleyp/smart-brain">GitHub</a></Button>
               
-              <Button colored>Live Demo</Button>
+              <Button colored><a target='_blank' rel="noopener noreferrer" style={{textDecoration: 'none', color: 'blue'}}href="https://front-end-smart.herokuapp.com/">Live Demo</a></Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />

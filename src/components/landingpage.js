@@ -19,7 +19,7 @@ class Landing extends Component {
 
             <hr/>
 
-          <p>HTML | CSS | JavaScript | React | Git/Github | NodeJS </p>
+          <p>HTML | CSS | JavaScript | React | Git/Github | NodeJS | Heroku | Express.js | Postgresql  </p>
 
         <div className="social-links">
 
